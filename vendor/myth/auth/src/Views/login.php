@@ -1,4 +1,4 @@
-<?= $this->extend($config->viewLayout) ?>
+e(<?= $this->extend($config->viewLayout) ?>
 <?= $this->section('main') ?>
 
 <div class="container">
